@@ -17,7 +17,7 @@ $ npm start
 
 ### View Here - [Netlify](https://youtube-browser-app.netlify.app/)
 
-<img src="/Users/thevchouse/Desktop/CodeSpace/Udemy/youtube-browser/public/images/preview-demo.png">
+<img src="https://github.com/DavidColatti/Youtube-Browser/blob/master/public/images/preview-demo.png">
 
 ### Built With
 JS, HTML5, CSS3, React
